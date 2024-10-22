@@ -6,7 +6,6 @@ res = classifier(
     'I have completed this course',
     candidate_labels=['education','politics','business']
 )
-
 print(res)
 
 # from transformers import pipeline
